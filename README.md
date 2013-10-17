@@ -1,4 +1,4 @@
-# Tiny Tiny RSS plugin for rsdn.ru freeds
+# Tiny Tiny RSS plugin for rsdn.ru feeds
 
 Плагин для преобразования ссылок в потоках форума [RSDN](http://www.rsdn.ru).
 
